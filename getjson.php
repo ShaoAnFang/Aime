@@ -1,9 +1,12 @@
 <?php
 
 //mysql_connect('localhost','root','root');
-mysql_connect('sql212.0fees.us','0fe_19330894','jq01g4dn');
+//mysql_connect('sql212.0fees.us','0fe_19330894','jq01g4dn');
+mysql_connect('aime.cd4jeronymvi.us-west-2.rds.amazonaws.com','MAPD17','1501user40');
 
-mysql_select_db("0fe_19330894_Aime");
+
+mysql_select_db("Aime");
+//mysql_select_db("0fe_19330894_Aime");
 
 mysql_set_charset("utf8");
 
