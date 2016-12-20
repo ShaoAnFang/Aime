@@ -1,6 +1,7 @@
 <?php
-//display_errors = Off;
-error_reporting(E_ALL ^ E_DEPRECATED);
+
+error_reporting(0);
+//error_reporting(E_ALL ^ E_DEPRECATED);
 
 //mysql_connect('localhost','root','root');
 //mysql_connect('sql212.0fees.us','0fe_19330894','jq01g4dn');
