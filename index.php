@@ -4,8 +4,8 @@ error_reporting(0);
 //error_reporting(E_ALL ^ E_DEPRECATED);
 
 //mysql_connect('localhost','root','root');
-//mysql_connect('sql212.0fees.us','0fe_19330894','jq01g4dn');
-mysql_connect('aime.cd4jeronymvi.us-west-2.rds.amazonaws.com','MAPD17','1501user40');
+mysql_connect('mysql.hostinger.com.hk','u490296923_aime','720419');
+//mysql_connect('aime.cd4jeronymvi.us-west-2.rds.amazonaws.com','MAPD17','1501user40');
 
 
 mysql_select_db("Aime");
