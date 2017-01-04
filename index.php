@@ -8,8 +8,8 @@ mysql_connect('mysql.hostinger.com.hk','u490296923_clark','720419');
 //mysql_connect('aime.cd4jeronymvi.us-west-2.rds.amazonaws.com','MAPD17','1501user40');
 
 
-mysql_select_db("Aime");
-//mysql_select_db("0fe_19330894_Aime");
+//mysql_select_db("Aime");
+mysql_select_db("u490296923_aime");
 
 mysql_set_charset("utf8");
 
