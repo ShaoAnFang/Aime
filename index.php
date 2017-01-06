@@ -7,12 +7,9 @@ error_reporting(0);
 mysql_connect('db4free.net','aime','720419');
 //mysql_connect('aime.cd4jeronymvi.us-west-2.rds.amazonaws.com','MAPD17','1501user40');
 
-
+mysql_set_charset("utf8");
 //mysql_select_db("Aime");
 mysql_select_db("aimeclark");
-
-mysql_set_charset("utf8");
-
 
 
 //@mysql_select_db($Aime) or die("Error");
