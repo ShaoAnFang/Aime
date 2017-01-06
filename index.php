@@ -7,7 +7,7 @@ mysql_set_charset("utf8");
 
 //mysql_connect('localhost','root','root');
 //mysql_connect('db4free.net','aime','720419'); //db4 free
-mysql_connect('sql6.freemysqlhosting.net','sql6152521','720419','sql6152521'); //free db hosting
+mysql_connect('sql6.freemysqlhosting.net','sql6152521','9snQHwyntA','sql6152521'); //free db hosting
 //mysql_connect('aime.cd4jeronymvi.us-west-2.rds.amazonaws.com','MAPD17','1501user40'); AWS
 
 //mysql_select_db("Aime");
