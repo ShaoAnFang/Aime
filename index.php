@@ -4,7 +4,6 @@ error_reporting(0);
 //error_reporting(E_ALL ^ E_DEPRECATED);
 
 
-
 //mysql_connect('localhost','root','root');
 //mysql_connect('db4free.net','aime','720419'); //db4 free
 mysql_connect('sql6.freemysqlhosting.net','sql6152521','9snQHwyntA') or die('Could not connect to database');//free db hosting
